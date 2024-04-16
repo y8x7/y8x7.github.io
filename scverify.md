@@ -11,4 +11,4 @@ Hello! Verification may be confusing, so I made this guide to help you out!
 - Use any of the methods to verify your account. Know that some things **are** broken, so if it didn't work the first time, try again.
 
 
-Made by [Thandeka](https://github.com/Thandeka0/thandeka0.github.io/scverify.md)
+Made by [Thandeka](https://github.com/Thandeka0/thandeka0.github.io/blob/main/scverify.md)
