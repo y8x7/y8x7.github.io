@@ -4,4 +4,5 @@ Hello! Verification may be confusing, so I made this guide to help you out!
 - Click on the server name and go to Linked Roles <br />
 ![Linked Roles](sc1.png)
 
-- You will then see a singular button. Click it.
+- You will then see a singular button. Click it. You will then be taken here: <br />
+![Connections](sc2.png)
