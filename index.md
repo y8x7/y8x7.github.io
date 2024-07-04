@@ -1,2 +1,4 @@
 # hi
-[Twitter](https://x.com/ttthandekaaa) [GitHub](https://github.com/Thandeka0/)
+i am an idiot on the internet
+
+:3
